@@ -1,0 +1,1 @@
+#how to find odd or even in python
